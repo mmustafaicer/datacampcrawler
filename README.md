@@ -2,11 +2,11 @@
 
 ## Problem Statement.
 
-We have a starting [webpage](https://www.datacamp.com/courses/tech:python). There are a list of courses related to Python programming language. 
+We have a starting [webpage](https://www.datacamp.com/courses/tech:python). There is a list of courses related to Python programming language each shown as a separate block.
 
 ![start_url](https://user-images.githubusercontent.com/46098464/74062126-2fe91700-49b3-11ea-93c4-3be35245d061.png)
 
-Each links redirects user to that specific course page. That course page some information such as:
+Each link redirects user to that specific course page. That course page has some information such as:
 
 - course name
 - course description
@@ -19,7 +19,7 @@ Each links redirects user to that specific course page. That course page some in
 
 ![example](https://user-images.githubusercontent.com/46098464/74062143-36778e80-49b3-11ea-9960-82b3b3ddd82a.png)
 
-We need to collect these information for each course. The output should be like this.
+We need to collect these information for each course. The output should be like this in an `.csv` format:
 
 ------
 
